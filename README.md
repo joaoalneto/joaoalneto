@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @joaoalneto
+- 👋 Hi, I’m João Alves
 - 👀 I’m interested in Leearning New things!
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter
-- 📫 How to reach me on discord: Jneto#0089
+- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
+- 💞️ I’m looking to collaborate on Web Developing
+- 📫 How to reach me on discord: 
 
 <!---
 joaoalneto/joaoalneto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
